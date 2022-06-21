@@ -1,16 +1,20 @@
 ---
 title: Predicting NBA MVP
-summary: An example of using the in-built project page.
+summary: The Most Valuable Player (MVP) award is  one of the most prestigious accolades that an NBA player can receive in  his career. At the end of each regular season, the MVP  award is presented to a single player that is deemed worthy of this  title.
 tags:
   - Machine Learning
+  - Data Engineering
+  - Data Cleaning
+  - Exploratory Data Analysis
+  - Feature Engineering
 date: '2022-04-27T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
 
-image:
-  caption: Photo by rawpixel on Unsplash
-  focal_point: Smart
+#image:
+#  caption: Photo by rawpixel on Unsplash
+#  focal_point: Smart
 
 links:
   - icon: twitter
