@@ -33,8 +33,8 @@ item:
     url: ''
   - certificate_url: https://www.edx.org
     date_end: ''
-    date_start: '2021-01-01'
-    description: Formulated informed blockchain models, hypotheses, and use cases.
+    date_start: '2022-03-01'
+    description: Machine Learning can be an incredibly beneficial tool to uncover hidden insights and predict future trends. This Machine Learning with Python course will give you all the tools you need to get started with supervised and unsupervised learning.
     organization: edX
     organization_url: https://www.edx.org
     title: Machine Learning with Python. Practical Introduction.
@@ -49,5 +49,5 @@ item:
     url: ''
 
 design:
-  columns: '1'
+  columns: '2'
 ---
