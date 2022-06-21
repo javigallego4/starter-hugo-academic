@@ -32,14 +32,6 @@ item:
     organization_url: https://www.edx.org
     title: Machine Learning (aprendizaje automatico) con Python: una introduccion practica
     url: https://www.edx.org/es/course/machine-learning-with-python-a-practical-introduct
-  - certificate_url: https://www.datacamp.com
-    date_end: '2020-12-21'
-    date_start: '2020-07-01'
-    description: ''
-    organization: DataCamp
-    organization_url: https://www.datacamp.com
-    title: 'Object-Oriented Programming in R'
-    url: ''
 
 design:
   columns: '1'
