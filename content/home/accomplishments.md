@@ -34,11 +34,11 @@ item:
   - certificate_url: https://courses.edx.org/certificates/6976a4cb8d1848c4a4eaa85c28f00e6f
     date_end: ''
     date_start: '28-02-2022'
-    description: Formulated informed blockchain models, hypotheses, and use cases.
+    description: Machine Learning (aprendizaje automático) con Python: una introducción práctica
     organization: edX
     organization_url: https://www.edx.org
     title: Machine Learning (aprendizaje automático) con Python: una introducción práctica
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
+    url: https://www.edx.org/es/course/machine-learning-with-python-a-practical-introduct
   - certificate_url: https://www.datacamp.com
     date_end: '2020-12-21'
     date_start: '2020-07-01'
