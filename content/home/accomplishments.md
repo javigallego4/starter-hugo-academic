@@ -23,14 +23,13 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-  
   - certificate_url: https://courses.edx.org/certificates/6976a4cb8d1848c4a4eaa85c28f00e6f
     date_end: ''
     date_start: '2021-01-25'
     description: Machine Learning (aprendizaje automatico) con Python: una introduccion practica
     organization: edX
     organization_url: https://www.edx.org
-    title: Machine Learning (aprendizaje automatico) con Python: una introduccion practica
+    title: Machine Learning con Python: una introduccion practica
     url: https://www.edx.org/es/course/machine-learning-with-python-a-practical-introduct
 
 design:
