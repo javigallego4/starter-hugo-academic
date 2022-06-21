@@ -27,7 +27,7 @@ item:
   - certificate_url: https://courses.edx.org/certificates/6976a4cb8d1848c4a4eaa85c28f00e6f
     date_end: ''
     date_start: '2021-01-25'
-    description: Machine Learning (aprendizaje automático) con Python: una introducción práctica
+    description: Machine Learning (aprendizaje automatico) con Python: una introduccion practica
     organization: edX
     organization_url: https://www.edx.org
     title: Machine Learning (aprendizaje automatico) con Python: una introduccion practica
