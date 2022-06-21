@@ -19,8 +19,8 @@ bio: My research interests include distributed robotics, mobile computing and pr
 # Interests to show in About widget
 interests:
   - Data Science
-  - Machine Learning
-  - Deep Learning
+  - Big Data
+  - Business Intelligence
 
 # Education to show in About widget
 education:
@@ -40,7 +40,10 @@ social:
     link: '/#contact'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen  
+    link: https://twitter.com/GeorgeCushen 
+  - icon: kaggle
+    icon_pack: fab
+    link: https://www.kaggle.com/javigallego 
   - icon: github
     icon_pack: fab
     link: https://github.com/javigallego4
