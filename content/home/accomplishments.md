@@ -30,7 +30,7 @@ item:
     description: Machine Learning (aprendizaje automático) con Python: una introducción práctica
     organization: edX
     organization_url: https://www.edx.org
-    title: Machine Learning (aprendizaje automático) con Python: una introducción práctica
+    title: Machine Learning (aprendizaje automatico) con Python: una introduccion practica
     url: https://www.edx.org/es/course/machine-learning-with-python-a-practical-introduct
   - certificate_url: https://www.datacamp.com
     date_end: '2020-12-21'
@@ -42,5 +42,5 @@ item:
     url: ''
 
 design:
-  columns: '2'
+  columns: '1'
 ---
