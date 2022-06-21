@@ -18,22 +18,17 @@ bio: My research interests include distributed robotics, mobile computing and pr
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Data Science
+  - Machine Learning
+  - Deep Learning
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: 
+    - course: BSc in Mathematics and Computer Science
+      institution: University of Granada
+      year: 2018-2023
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -71,9 +66,5 @@ highlight_name: true
 ---
 
 I am Francisco Javier, currently at my last year of university studies. I consider myself to be an open, motivated and compromised person but, above all, a **problem solver**. Here, you can get to know me a little better. **Welcome!**
-
-### Don't hesitate to contact me!
-
-I enjoy meeting new people and sharing knowledgement. Feel free to contact me!
 
  {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
