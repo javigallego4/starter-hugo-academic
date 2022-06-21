@@ -65,6 +65,12 @@ email: ''
 highlight_name: true
 ---
 
-I am Francisco Javier, currently at my last year of university studies. I consider myself to be an open, motivated and compromised person but, above all, a **problem solver**. Here, you can get to know me a little better. **Welcome!**
+Hi, this is my personal website ! Here, you can get to know me a little better. **Welcome!** 
+
+I am Francisco Javier, currently at my last year of university studies. I consider myself to be an open, motivated and compromised person but, above all, a **problem solver**.
+
+Apart from my studies and courses, and among other things, I dedicate some of my spare time to develop various **projects related to Machine Learning**. Moreover, I'm participating in some **Data Science competitions**. They are based on real-world problems from different fields. Most of what I've told previously is publicly available in my [Kaggle Profile](https://www.kaggle.com/javigallego). 
+
+ 
 
  {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
