@@ -1,6 +1,6 @@
 ---
 title: Predicting NBA MVP
-#summary: 
+summary: 
 tags:
   - Machine Learning
   - Data Engineering
