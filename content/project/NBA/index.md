@@ -34,11 +34,7 @@ url_video: ''
 slides: example
 ---
 
-The **Most Valuable Player (MVP)** award is  one of the most prestigious accolades that an NBA player can receive in  his career. <!--more-->
-
-At the end of each regular season, the MVP  award is presented to a single player that is deemed worthy of this  title.
-
-![](https://pbs.twimg.com/media/ENEkxGeXsAAsMu7.jpg)
+The **Most Valuable Player (MVP)** award is  one of the most prestigious accolades that an NBA player can receive in  his career. At the end of each regular season, the MVP  award is presented to a single player that is deemed worthy of this  title.
 
 However, through all over the media, there are still many questions and debates  regarding the definition of most valuable player. *Is it a player that achieves an outstanding individual statistical success? Is  it the best player on the greatest team of the regular season? or is it  all about narratives/story lines that numbers cannot possibly define?*
 
