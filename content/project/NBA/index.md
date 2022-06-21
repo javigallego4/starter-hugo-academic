@@ -1,6 +1,6 @@
 ---
 title: Predicting NBA MVP
-summary: The Most Valuable Player (MVP) award is  one of the most prestigious accolades that an NBA player can receive in  his career. At the end of each regular season, the MVP  award is presented to a single player that is deemed worthy of this  title.
+#summary: 
 tags:
   - Machine Learning
   - Data Engineering
