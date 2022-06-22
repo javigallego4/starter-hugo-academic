@@ -1,6 +1,6 @@
 ---
 title: TPS March 22
-summary: Final Result: 23rd out of 958 (Top 3%)  
+summary: Final Result: 23rd out of 958 (Top 3%).  
 tags:
   - Competition  
 date: '2022-03-30T00:00:00Z'
