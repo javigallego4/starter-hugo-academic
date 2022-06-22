@@ -1,6 +1,6 @@
 ---
 title: NBA Analytics
-summary: In this project we'll predict the next NBA MVP. The **Most Valuable Player (MVP)** award is  one of the most prestigious accolades that an NBA player can receive in  his career.
+summary: In this project I'll predict the next NBA MVP. As the numbers definitely do not tell the whole story, the aim is to find out some interesting patterns of metrics and statistics that could contribute to the models. 
 tags:
   - Machine Learning
   - Data Engineering
