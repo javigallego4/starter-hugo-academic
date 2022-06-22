@@ -1,6 +1,6 @@
 ---
-title: NBA Analytics
-summary: In this project I'll predict the next NBA MVP. As the numbers definitely do not tell the whole story, the aim is to find out some interesting patterns of metrics and statistics that could contribute to the models. 
+title: Predicting NBA MVP
+summary: Making predictions in sports is a very difficult task and is clouded in much uncertainty. As the numbers definitely do not tell the whole story, **the aim of this project** is to find out some interesting patterns of metrics and statistics that could contribute to the models. 
 tags:
   - Machine Learning
   - Data Engineering
@@ -31,7 +31,7 @@ url_video: ''
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: example
+#slides: example
 ---
 
 The **Most Valuable Player (MVP)** award is  one of the most prestigious accolades that an NBA player can receive in his career. At the end of each regular season, the MVP  award is presented to a single player that is deemed worthy of this  title.
