@@ -10,7 +10,7 @@ tags:
   - KMeans  
   - DBSCAN
   - Hierarchical Clustering
-date: '2022-07-30T00:00:00Z'
+date: '2022-06-30T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
