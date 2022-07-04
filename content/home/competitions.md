@@ -31,6 +31,8 @@ content:
       tag: Classification
     - name: Regression
       tag: Regression
+    - name: Clustering
+      tag: Clustering
     - name: NLP
       tag: Natural Language Preprocessing    
 
